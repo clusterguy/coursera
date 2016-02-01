@@ -2,17 +2,19 @@ Codebook
 ========
 Variable description from http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions and included text files.
 
-Subject      ID the subject who performed the activity for each window sample (between 1 and 30)
-Activity     Activity Name
-Domain       Time domain signal or frequency domain signal (Time or Freq)
-Instrument   Measuring instrument (Accelerometer or Gyroscope)
-Acceleration Acceleration signal (Body or Gravity)
-Variable     Variable (Mean or SD)
-Jerk         Jerk signal
-Magnitude    Magnitude of the signals calculated using the Euclidean norm
-Axis         3-axial signals in the X, Y and Z directions (X, Y, or Z)
-Count        Count of data points used to compute `average`
-Average      Average of each variable for each activity and each subject
+Variable Name|Description
+-------------|------------
+Subject|ID the subject who performed the activity for each window sample (between 1 and 30)
+Activity|Activity Name
+Domain|Time domain signal or frequency domain signal (Time or Freq)
+Instrument|Measuring instrument (Accelerometer or Gyroscope)
+Acceleration|Acceleration signal (Body or Gravity)
+Variable|Variable (Mean or SD)
+Jerk|Jerk signal
+Magnitude|Magnitude of the signals calculated using the Euclidean norm
+Axis|3-axial signals in the X, Y and Z directions (X, Y, or Z)
+Count|Count of data points used to compute `average`
+Average|Average of each variable for each activity and each subject
 
 Dataset structure
 -----------------
