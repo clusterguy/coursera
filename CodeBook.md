@@ -18,10 +18,6 @@ Average|Average of each variable for each activity and each subject
 
 Dataset structure
 -----------------
-```r
-str(tidy_data)
-```
-
 ```
 > str(allData.mean)
 'data.frame':	180 obs. of  81 variables:
