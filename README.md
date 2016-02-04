@@ -3,10 +3,11 @@ title: "README.md"
 output: html_document
 ---
 
-Instructions
+# Instructions
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
-Review criterialess 
+
+# Review criteria
 The submitted data set is tidy.
 The Github repo contains the required scripts.
 GitHub contains a code book that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
@@ -38,3 +39,7 @@ You should create one R script called run_analysis.R that does the following.
 * Appropriately labels the data set with descriptive variable names.
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 Good luck!
+
+# To run
+* execute run_analysis.R
+* this will create GACD-Project.out
